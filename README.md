@@ -1,5 +1,5 @@
 # Tensorflow-VGG-face
-Implement VGG-face by Tensorflow using the pre-trained model from MatConvNet.
+Implement VGG-face by Tensorflow using the pre-trained model from [MatConvNet](http://www.vlfeat.org/matconvnet/).
 
 ## Pre-requisite
 * Python 2.7
