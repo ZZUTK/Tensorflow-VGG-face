@@ -22,7 +22,6 @@ with graph.as_default():
 img = imread('Aamir_Khan_March_2015.jpg', mode='RGB')
 img = img[0:250, :, :]
 img = imresize(img, [224, 224])
-# img = img - np.flipud(average_image)
 img = img - average_image
 
 # run the graph
