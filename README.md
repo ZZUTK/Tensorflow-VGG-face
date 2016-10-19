@@ -12,4 +12,5 @@ Implement VGG-face by Tensorflow using the pre-trained model from MatConvNet.
 $ python test_vgg_face.py
 ```
 
-## 
+## Result
+
